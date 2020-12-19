@@ -15,7 +15,7 @@ $ streamlit run digitgenerator.py
 
 #### was trained for 400 epochs
 
-<img src="https://user-images.githubusercontent.com/52780573/102695893-4fe29b80-4250-11eb-9115-596027a3828d.gif" data-canonical-src="" width="800" height="500" />
+<img src="https://user-images.githubusercontent.com/52780573/102699440-b2e12c00-426a-11eb-8198-7a76db824743.gif" data-canonical-src="" width="800" height="500" />
 
 #### After 10 epochs: 
 
