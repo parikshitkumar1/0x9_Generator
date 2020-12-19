@@ -13,7 +13,7 @@ $ streamlit run digitgenerator.py
 ```
 ## Examples
 
-<img src="![10](https://user-images.githubusercontent.com/52780573/102694930-38a0af80-424a-11eb-9031-ab9da9602d81.png)" data-canonical-src="" width="800" height="500" />
+<img src="https://user-images.githubusercontent.com/52780573/102694930-38a0af80-424a-11eb-9031-ab9da9602d81.png" data-canonical-src="" width="800" height="500" />
 
 <img src="https://user-images.githubusercontent.com/52780573/100628441-384d7c80-334e-11eb-835a-9329af166209.png" data-canonical-src="" width="800" height="500" />
 
