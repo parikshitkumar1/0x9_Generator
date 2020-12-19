@@ -11,6 +11,7 @@ $ pip3 install -r requirements.txt
 ```python
 $ streamlit run digitgenerator.py
 ```
+>>or check it out here: https://thisdigitprobablyexists.herokuapp.com/
 ## Examples
 
 #### was trained for 400 epochs
