@@ -18,6 +18,15 @@ $ streamlit run digitgenerator.py
 
 <img src="https://user-images.githubusercontent.com/52780573/102699440-b2e12c00-426a-11eb-8198-7a76db824743.gif" data-canonical-src="" width="800" height="500" />
 
+<img src="https://user-images.githubusercontent.com/52780573/102704942-d2e31080-42a7-11eb-84a9-630444f33c87.png" data-canonical-src="" width="800" height="500" />
+
+<img src="https://user-images.githubusercontent.com/52780573/102704947-e68e7700-42a7-11eb-9f6e-f8653e8c103f.png" data-canonical-src="" width="800" height="500" />
+
+<img src="https://user-images.githubusercontent.com/52780573/102704955-02921880-42a8-11eb-9e7d-0525102f748b.png" data-canonical-src="" width="800" height="500" />
+
+<img src="https://user-images.githubusercontent.com/52780573/102704964-1f2e5080-42a8-11eb-8002-f308e8ebba57.png" data-canonical-src="" width="800" height="500" />
+
+<img src="https://user-images.githubusercontent.com/52780573/102704981-64eb1900-42a8-11eb-88d5-a33d81a1dfe5.png" data-canonical-src="" width="800" height="500" />
 #### After 10 epochs: 
 
 <img src="https://user-images.githubusercontent.com/52780573/102694930-38a0af80-424a-11eb-9031-ab9da9602d81.png" data-canonical-src="" width="800" height="500" />
