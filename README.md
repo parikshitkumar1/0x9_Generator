@@ -49,5 +49,6 @@ $ streamlit run digitgenerator.py
 
 ## Might Do
 - [ ] Make it deployable, currently the images generated are being shown through matplotlib which isn't all that suited for deployment
+- [ ] bugs fixed and deployed, train for more epochs maybe?
 
 ---
