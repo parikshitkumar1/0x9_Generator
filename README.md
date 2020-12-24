@@ -1,7 +1,7 @@
 ---
 # 0x9 Generator
 ## Motivation
-To train a vanilla generative adversarial network to generate images from 0 to 9, accidentally made a sk
+To train a vanilla generative adversarial network to generate images from 0 to 9
 ## Requirements
 Python 3.8 or above with all [requirements](requirements.txt) dependencies installed. To install run:
 ```python
