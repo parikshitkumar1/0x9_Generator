@@ -9,12 +9,12 @@ $ pip3 install -r requirements.txt
 ```
 ## To run
 ```python
-$ streamlit run digitgenerator.py
+$ streamlit run digit.py
 ```
 >>or check it out here: https://weird-digits.herokuapp.com/
 ## Examples
 
-#### was trained for 400 epochs
+#### 2 different vanilla architectures were trained for nearly 400 epochs
 
 <img src="https://user-images.githubusercontent.com/52780573/102699440-b2e12c00-426a-11eb-8198-7a76db824743.gif" data-canonical-src="" width="800" height="500" />
 
@@ -48,7 +48,6 @@ $ streamlit run digitgenerator.py
 <img src="https://user-images.githubusercontent.com/52780573/102694943-4bb37f80-424a-11eb-9b5b-214d07ffb7c5.png" data-canonical-src="" width="800" height="500" />
 
 ## Might Do
-- [ ] Make it deployable, currently the images generated are being shown through matplotlib which isn't all that suited for deployment
-- [ ] bugs fixed and app has been deployed, train for more epochs maybe?
+- [ ] Use DCGAN, or controllable generation.
 
 ---
