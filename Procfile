@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run digitgenerator.py
+web: sh setup.sh && streamlit run digit.py
